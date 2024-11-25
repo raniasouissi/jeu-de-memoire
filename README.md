@@ -13,9 +13,11 @@ Le but du jeu est simple : retrouver les paires de cartes qui représentent les 
 - **Calcul du temps** : Le temps écoulé pour terminer le jeu est affiché en secondes.
 - **Facile à jouer** : Une interface simple et amusante.
 
-### Aperçu du jeu
+## Aperçu du jeu
 
-![Aperçu du jeu de mémoire](assets/jeu1) (assets/jeu2) 
+![Aperçu du jeu 1](assets/jeu1.png)
+![Aperçu du jeu 2](assets/jeu2.png)
+
 
 ## Prérequis
 
