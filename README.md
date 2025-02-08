@@ -1,31 +1,31 @@
-# Jeu de Mémoire - Animaux
+# Memory Game - Animals
 
-Bienvenue dans le **Jeu de Mémoire** ! Ce jeu consiste à retourner des cartes et à associer des paires d'images d'animaux identiques. Le temps nécessaire pour terminer le jeu est calculé et affiché à la fin.
+Welcome to the **Memory Game**! This game challenges you to flip cards and match identical pairs of animal images. The time taken to complete the game is calculated and displayed at the end.
 
 ## Description
 
-Le but du jeu est simple : retrouver les paires de cartes qui représentent les mêmes animaux. Les cartes sont placées face cachée au départ. En retournant deux cartes à la fois, l'objectif est de trouver deux cartes avec la même image. Si les cartes sont identiques, elles restent visibles. Si ce n'est pas le cas, elles se retournent à nouveau.
+The goal of the game is simple: find matching pairs of cards representing the same animals. The cards are initially placed face down. By flipping two cards at a time, the objective is to find two cards with the same image. If the cards match, they remain visible; otherwise, they flip back over.
 
-### Fonctionnalités
+### Features
 
-- **Cartes à retourner** : Le joueur doit retourner les cartes pour découvrir les images.
-- **Paires à associer** : Le joueur doit associer les cartes identiques pour les faire disparaître.
-- **Calcul du temps** : Le temps écoulé pour terminer le jeu est affiché en secondes.
-- **Facile à jouer** : Une interface simple et amusante.
+- **Flip Cards**: Players must flip the cards to reveal the images.
+- **Match Pairs**: Players must match identical cards to make them disappear.
+- **Time Calculation**: The elapsed time to complete the game is displayed in seconds.
+- **Easy to Play**: A simple and fun interface.
 
-## Aperçu du jeu
+## Game Preview
 
-![Aperçu du jeu 1](assets/jeu1.png)
-![Aperçu du jeu 2](assets/jeu2.png)
+![Game Preview 1](assets/jeu1.png)
+![Game Preview 2](assets/jeu2.png)
 
+## Requirements
 
-## Prérequis
-
-- Un navigateur moderne (comme Google Chrome ou Firefox).
-- Le jeu est entièrement fait avec **HTML**, **CSS**, et **JavaScript**.
+- A modern web browser (such as Google Chrome or Firefox).
+- The game is fully built with **HTML**, **CSS**, and **JavaScript**.
 
 ## Installation
 
-1. **Clonez ce dépôt sur votre ordinateur** :
+1. **Clone this repository to your computer**:
    ```bash
-   git clone https://github.com/raniasouissi/jeu-de-memoire.git
+   git clone https://github.com/raniasouissi/memory-game.git
+
